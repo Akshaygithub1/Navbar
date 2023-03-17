@@ -1,0 +1,15 @@
+nav {
+  background-color: #333; /* sets the background color of the navigation bar */
+  font-size: 18px; /* sets the font size of the text in the navigation bar */
+  padding: 10px; /* adds padding to the top and bottom of the navigation bar */
+}
+
+nav a {
+  color: #fff; /* sets the text color of links in the navigation bar */
+  text-decoration: none; /* removes underline from links */
+  padding: 10px 15px; /* adds padding to the left and right of links */
+}
+
+nav a:hover {
+  background-color: #555; /* sets the background color of a link when hovering over it */
+}
